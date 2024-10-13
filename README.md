@@ -1,6 +1,6 @@
 
 # Learning Agility and Adaptive Legged Locomotion via Curricular Hindsight Reinforcement Learning
-Simulation Example Model for teacher policy
+Simulation example model for teacher policy
 
 ## Requirements
 - Python>=3.8
